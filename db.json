@@ -20,6 +20,7 @@
 		{"id": "b1b4-51f9ddf8e763", "name": "testItem 3", "description": "Neque porro quisquam","quantity": 10, "unitPrice": 20.00},
 		{"id": "a527-f7b7c7da88da", "name": "testItem 4", "description": "est qui dolorem ipsum","quantity": 5, "unitPrice": 10.99}	
 	]
+	}
   ], 
   "profile": {
     "name": "typicode"
