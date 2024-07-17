@@ -4,10 +4,23 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "cart": [
+    {"id": 1, 
+	"cartId": "9f4d82ba-2832-4702-8e59-e27fb92b1cff",
+	"creationTime": "2024-07-17 22:00:00.000",
+	"items":[
+		{"id": "a5b3-bf153ba8a650", "name": "testItem 1", "description": "consectetur, adipisci velit","quantity": 10, "unitPrice": 20.00},
+		{"id": "a222-408a442e0af8", "name": "testItem 2", "description": "quia dolor sit amet","quantity": 5, "unitPrice": 10.99}	
+	]
+	},
+	{"id": 2, 
+	"cartId": "d270c582-d63b-4b1a-a8f0-685e89232f18",
+	"creationTime": "2024-07-17 23:00:00.000",
+	"items":[
+		{"id": "b1b4-51f9ddf8e763", "name": "testItem 3", "description": "Neque porro quisquam","quantity": 10, "unitPrice": 20.00},
+		{"id": "a527-f7b7c7da88da", "name": "testItem 4", "description": "est qui dolorem ipsum","quantity": 5, "unitPrice": 10.99}	
+	]
+  ] 
   "profile": {
     "name": "typicode"
   }
