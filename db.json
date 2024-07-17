@@ -5,7 +5,7 @@
     { "id": 3, "title": "Post 3" }
   ],
   "cart": [
-    {"id": 1, 
+    {"id": "9f4d82ba-2832-4702-8e59-e27fb92b1cff", 
 	"cartId": "9f4d82ba-2832-4702-8e59-e27fb92b1cff",
 	"creationTime": "2024-07-17 22:00:00.000",
 	"items":[
