@@ -11,15 +11,23 @@
 	"items":[
 		{"id": "a5b3-bf153ba8a650", "name": "testItem 1", "description": "consectetur, adipisci velit","quantity": 10, "unitPrice": 20.00},
 		{"id": "a222-408a442e0af8", "name": "testItem 2", "description": "quia dolor sit amet","quantity": 5, "unitPrice": 10.99}	
-	]
+		]
 	},
-	{"id": 2, 
+	{"id": "d270c582-d63b-4b1a-a8f0-685e89232f18", 
 	"cartId": "d270c582-d63b-4b1a-a8f0-685e89232f18",
 	"creationTime": "2024-07-17 23:00:00.000",
 	"items":[
 		{"id": "b1b4-51f9ddf8e763", "name": "testItem 3", "description": "Neque porro quisquam","quantity": 10, "unitPrice": 20.00},
 		{"id": "a527-f7b7c7da88da", "name": "testItem 4", "description": "est qui dolorem ipsum","quantity": 5, "unitPrice": 10.99}	
-	]
+		]
+	},
+	{"id": "76d06331-a96c-45c7-b93a-ad7935c2ff93", 
+	"cartId": "76d06331-a96c-45c7-b93a-ad7935c2ff93",
+	"creationTime": "2024-07-10 12:00:00.000",
+	"items":[
+		{"id": "b1b4-51f9ddf8e763", "name": "testItem 3", "description": "Neque porro quisquam","quantity": 1, "unitPrice": 20.00},
+		{"id": "a527-f7b7c7da88da", "name": "testItem 4", "description": "est qui dolorem ipsum","quantity": 2, "unitPrice": 10.99}	
+		]
 	}
   ], 
   "profile": {
